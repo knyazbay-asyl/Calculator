@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTest</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="hint_1">Ведите первое число</string>
+    <string name="hint_2">Ведите второе число</string>
+
+</resources>
